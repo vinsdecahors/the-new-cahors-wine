@@ -4,3 +4,4 @@
 
 ## Pages disponibles
 - [/index.html](/) : Page d'accueil et présentation du guide.
+- [/le-renouveau.html](/le-renouveau.html) : Analyse complète sur la modernisation du style des vins de Cahors et ses terroirs.
