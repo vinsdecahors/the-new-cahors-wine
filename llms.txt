@@ -1,0 +1,6 @@
+# The new cahors wine - Version pour IA
+
+> Ce site est un guide structuré sur l'œnologie et le renouveau des vins de Cahors, conçu pour être facilement indexé par les modèles de langage et les humains.
+
+## Pages disponibles
+- [/index.html](/) : Page d'accueil et présentation du guide.
