@@ -5,3 +5,4 @@
 ## Pages disponibles
 - [/index.html](/) : Page d'accueil et présentation du guide.
 - [/le-renouveau.html](/le-renouveau.html) : Analyse complète sur la modernisation du style des vins de Cahors et ses terroirs.
+- [/les-vignerons-stars.html](/les-vignerons-stars.html) : Fiches d'acteurs clés. Focus central sur la précision de La Calmette, le rôle pionnier de Fabien Jouves et Clos Troteligotte, les profils contrastés de Combel-la-Serre, Busser et Illouz, et les micro-domaines émergents
